@@ -5,6 +5,6 @@
 
 ## Creating a Weather Forecast App Using HTML, CSS and JavaScript 🔥
 
-[Weather Forecast Netlify App Link](weather-forecast-netlify-app.netlify.app)
+[Weather Forecast Netlify App Link](https://weather-forecast-netlify-app.netlify.app/)
 
 ![Website Screenshot](./screenshot.PNG)
