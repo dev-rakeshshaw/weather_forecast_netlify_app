@@ -7,6 +7,8 @@
 
 [Weather Forecast Netlify App Link](https://weather-forecast-netlify-app.netlify.app/)
 
+## Website view on Web.
+
 ![Website Screenshot](./screenshot.PNG)
 
 ![image](https://user-images.githubusercontent.com/88075256/211091483-94820975-ea0e-4ed0-a20e-f69f4c70efd7.png)
@@ -17,3 +19,10 @@
 
 ![image](https://user-images.githubusercontent.com/88075256/211091839-eb0121cf-2558-4986-928c-9653405f6b56.png)
 
+## Website view on Smartphone.
+
+![photo_2023-01-07_01-49-51](https://user-images.githubusercontent.com/88075256/211093729-e1ad2f03-6593-4b9b-86b0-a040c809837e.jpg)
+
+![photo_2023-01-07_01-50-22](https://user-images.githubusercontent.com/88075256/211093764-2532157e-34e8-4975-b59f-bf059ef864db.jpg)
+
+![photo_2023-01-07_01-52-38](https://user-images.githubusercontent.com/88075256/211093772-335997b4-3d79-47bc-9a0a-a363493b7dd6.jpg)
