@@ -1,11 +1,9 @@
-# Weather App 
+# Weather Forecast App 
 
-![badge](https://img.shields.io/badge/Project-WeatherApp-orange)
+![badge](https://img.shields.io/badge/Project-Weather%20Forecast%20App-orange)
 
-## Creating a Weather App Using HTML, CSS and JavaScript 🔥
+## Creating a Weather Forecast App Using HTML, CSS and JavaScript 🔥
 
-
-
-[Weather Forecast Beta App Link](weather-forecast-beta.netlify.app "weather-forecast-beta")
+[Weather Forecast App Link](weather-forecast-beta.netlify.app "weather-forecast-app")
 
 ![Website Screenshot](./screenshot.PNG)
