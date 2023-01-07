@@ -51,4 +51,4 @@ document
     }
   });
 
-weather.fetchWeather("Kolkata");
+weather.fetchWeather("Budge Budge, IN");
