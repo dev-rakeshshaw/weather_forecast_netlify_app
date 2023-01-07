@@ -51,4 +51,4 @@ document
     }
   });
 
-weather.fetchWeather("Budge Budge, IN");
+weather.fetchWeather("Howrah, IN");
