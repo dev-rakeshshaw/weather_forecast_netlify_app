@@ -9,6 +9,14 @@
 
 ## Website view on Web.
 
+![image](https://user-images.githubusercontent.com/88075256/211151160-7b653733-ec8e-4d69-a469-fa0c71271acf.png)
+
+![image](https://user-images.githubusercontent.com/88075256/211151131-36cc29bc-01aa-4938-b555-cafa8b98e01e.png)
+
+![image](https://user-images.githubusercontent.com/88075256/211151092-3591acdb-9821-4e2a-bec3-9a92fecfd5a8.png)
+
+![image](https://user-images.githubusercontent.com/88075256/211151112-fd218373-b2bb-4f27-b502-736bfd03c2a2.png)
+
 ![Website Screenshot](./screenshot.PNG)
 
 ![image](https://user-images.githubusercontent.com/88075256/211091483-94820975-ea0e-4ed0-a20e-f69f4c70efd7.png)
